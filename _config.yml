@@ -9,7 +9,8 @@ helpers:
   - Achilles
 start_times:
   - 09|00
-setup_files: []
+setup_files:
+  - editor
 language: en
 venue: null
 address: null
